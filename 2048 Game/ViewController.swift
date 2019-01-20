@@ -44,7 +44,6 @@ class ViewController: UIViewController {
         setUpSwipes()
         if let savedBoard = loadBoard() {
             gameBoard = savedBoard
-            let stringRepresentation = gameBoard.board.joined()
         } else {
             gameBoard.addTile()
             gameBoard.addTile()
