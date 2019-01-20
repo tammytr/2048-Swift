@@ -1,6 +1,6 @@
 ## 2048 Swift
 
-<img src="/Screenshots/TipIcon.png"/> 
+<img src="/Screenshots/AppIcon.png"/> 
 
 
 2048 game in swift for iOS. Swipe to tilt the board and merge tiles. Optimized for iPhone X/XS.
